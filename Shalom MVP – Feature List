@@ -1,0 +1,47 @@
+Shalom MVP – Feature List
+
+--> User Roles:
+•	Toggle: Giver / Taker
+Users can switch between two roles:
+o	Giver – someone offering help or support
+o	Taker – someone requesting help
+ 
+--> Requests & Posts
+•	Post a Request
+Takers can create, and post help requests for others to see.
+•	Help Request Feed
+Users (primarily Givers) can browse a feed of active help requests.
+•	Post Comments
+Users can comment on requests to offer help, ask questions, or provide feedback.
+•	Comment Ratings (Givers Only)
+Givers can rate comments using a custom ranking system (e.g., "Jesus", others TBD).
+ 
+--> Map & Discovery
+•	Interactive Map View
+Shows nearby help requests and activities geographically.
+•	Map Bubbles with List Integration
+Tapping on a map bubble reveals a list of nearby requests, sorted by proximity or urgency.
+ 
+--> Social & Media
+•	Feed View
+Scrollable list view of help requests and possibly user activity.
+•	Video Support
+Users can upload, or view videos related to help requests or profiles.
+
+ --> User Profiles & Safety
+•	User Profiles
+Every user has a profile with basic info, role, history, and optional media.
+•	User Verification
+Secure ID-based verification system to build trust and safety in the community.
+ 
+--> Rankings
+•	User Ranking System
+Users earn titles or badges (e.g., “Jesus”, others TBD) based on activity, helpfulness, or community rating.
+ 
+--> Optional Enhancements (Future Consideration)
+(These may not be part of the MVP but can be considered for V2 or later.)
+•	Real-time chat or messaging between users
+•	Notifications for new posts or nearby requests
+•	Filters for feed/map based on categories or urgency
+•	Donation system (money, items, etc.)
+ 
